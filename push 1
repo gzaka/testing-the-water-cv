@@ -10,7 +10,6 @@
 % Debarghya Das (http://www.debarghyadas.com)
 % With extensive modifications by:
 % Vel (vel@latextemplates.com)
-% Modified again by : gzaka
 %
 % License:
 % CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -52,9 +51,9 @@
 \descript{B.Sc in Business}
 \location{Expected Sept 2017 | Depok, ID}
 Concentration in Finance \\
-Faculty of Economics and Business (FEB) \\
-\location{Cumulated GPA: 3.67 / 4.0 \\
-Semester GPA : 3.41 / 4.0}
+Faculty of Economics and Business (FEB UI) \\
+\location{Cumulated GPA: 3.64 / 4.0 \\
+Semester GPA : 3.72 / 4.0}
 
 \sectionspace % Some whitespace after the section
 
@@ -124,8 +123,18 @@ Python \textbullet{} LaTeX \textbullet{} HTML/CSS \textbullet{} SQL \\
 \location{Experienced in using:}
 Excel with VBA \textbullet{} Google Analytics \textbullet{} Stock Market Tools (Trading Apps) \\
 \location{Familiar with:}
-Google Adwords \textbullet{} HeidiSQL \textbullet{} Tableau \\
+Google Adwords \textbullet{} HeidiSQL \textbullet{} Tableau
 \textbullet{} Facebook Ads System \\
+
+\sectionspace % Some whitespace after the section
+
+\section{Certifications}
+
+\descript{Toefl-iTP : 640 / 670}
+Taken in Lembaga Bahasa Internasional FIB UI, 2016 \\
+
+\descript{PADI Open Water Diver}
+Licensed from 2015
 
 %----------------------------------------------------------------------------------------
 
@@ -165,7 +174,7 @@ Google Adwords \textbullet{} HeidiSQL \textbullet{} Tableau \\
 \begin{tightitemize}
 \item Produced weekly insights and custom analytical research for the department.
 \item Helped to fix and streamline MM affiliates' voucher fraud checking system.
-\item Created real-time dashboards for marketing campaigns using Google Anl.+SQL.
+\item Created real-time dashboards and charts for marketing campaigns, which I made using Google Sheets, Google Analytics API and HeidiSQL.
 \end{tightitemize}
 
 \sectionspace % Some whitespace after the section
@@ -215,10 +224,11 @@ Google Adwords \textbullet{} HeidiSQL \textbullet{} Tableau \\
 \descript{| Various Roles}
 
 \begin{tightitemize}
+\normalsize{}
 \item Project Leader for the National 11th Leaders' Dialogue, FEB UI, 2014.
-\item Head of Entrepreneurship Development on the Center of Entr. Devl. Universitas Indonesia (CEDS UI), 2015-2016.
+\item Head of Entrepreneurship Development on the Center of Entrp. Development Universitas Indonesia (CEDS UI), 2015-2016.
 \item Worked as an assistant facilitator on the UN SDSN regional workshop.
-\item Volunteered as a trainer on the US Embassy IRC's Social Entrepreneur program, 2016.
+\item Volunteered as a trainer on the US Embassy IRC's Social Entrepreneur program, 2016 and other NGOs as a volunteer teacher from 2013-16.
 \end{tightitemize}
 
 \sectionspace
