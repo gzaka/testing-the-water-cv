@@ -1,1 +1,280 @@
-git clone https://git.overleaf.com/8145683bstydsrwfbnn
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy CV/Resume
+% XeLaTeX Template
+% Version 1.0 (5/5/2014)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Debarghya Das (http://www.debarghyadas.com)
+% With extensive modifications by:
+% Vel (vel@latextemplates.com)
+% Modified again by : gzaka
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[a4paper]{deedy-resume} % Use US Letter paper, change to a4paper for A4 
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\lastupdated % Print the Last Updated text at the top right
+
+\namesection{\huge{Giffari}}{Zaka}{ % Your name
+\urlstyle{same}\url{https://www.linkedin.com/in/giffarizaka/} \\ % Your website, LinkedIn profile or other web address
+\href{mailto:giff.zaka@gmail.com}{giff.zaka@gmail.com} | +62 812 8610 2742 % Your contact information
+}
+
+%----------------------------------------------------------------------------------------
+%	LEFT COLUMN
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.31\textwidth} % The left column takes up 33% of the text width of the page
+
+%------------------------------------------------
+% Education
+%------------------------------------------------
+
+\section{Education} 
+
+\subsection{Universitas Indonesia}
+
+\descript{B.Sc in Business}
+\location{Expected Sept 2017 | Depok, ID}
+Concentration in Finance \\
+Faculty of Economics and Business (FEB) \\
+\location{Cumulated GPA: 3.67 / 4.0 \\
+Semester GPA : 3.41 / 4.0}
+
+\sectionspace % Some whitespace after the section
+
+\subsection{Abou Noor University}
+\descript{Arabic Studies (Partial)}
+\location{2011 | Damascus, Syria}
+
+\sectionspace
+
+%------------------------------------------------
+
+\subsection{Berkemas HS Community}
+
+\location{Graduated in 2011 | Jakarta, ID}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Links
+%------------------------------------------------
+
+\section{Links} 
+
+LinkedIn:// \href{https://www.linkedin.com/in/giffarizaka}{\bf giffarizaka} \\
+Facebook:// \href{https://www.facebook.com/giff.zaka}{\bf giff.zaka} \\
+Blog:// \href{https://wudartak.tumblr.com/}{\bf wudartak.tumblr} \\
+Quora:// \href{https://www.quora.com/profile/Gzaka}{\bf Gzaka} \\
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Coursework
+%------------------------------------------------
+
+\section{Coursework}
+
+\subsection{Undergraduate}
+
+Portfolio Management \\
+Financial Research + Practicum \\
+Securities Analysis \\
+Banking Management \\
+Strategic Management \\
+Econometrics \\
+Statistics 1 + 2 \\
+Accounting Courses \\
+{\footnotesize \textit{\textbf{(Taken in the Faculty of Computer UI) }}} \\
+Programming Basics
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Skills
+%------------------------------------------------
+
+\section{Skills}
+
+\subsection{Programming}
+
+\location{Over 300 lines / Familiar with:}
+Python \textbullet{} LaTeX \textbullet{} HTML/CSS \textbullet{} SQL \\
+
+\sectionspace % Some whitespace after the section
+
+\subsection{Other}
+
+\location{Experienced in using:}
+Excel with VBA \textbullet{} Google Analytics \textbullet{} Stock Market Tools (Trading Apps) \\
+\location{Familiar with:}
+Google Adwords \textbullet{} HeidiSQL \textbullet{} Tableau \\
+\textbullet{} Facebook Ads System \\
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the left column
+\hfill
+%
+%----------------------------------------------------------------------------------------
+%	RIGHT COLUMN
+%----------------------------------------------------------------------------------------
+%
+\begin{minipage}[t]{0.67\textwidth} % The right column takes up 66% of the text width of the page
+
+%------------------------------------------------
+% Experience
+%------------------------------------------------
+
+\section{Work Experience}
+
+\runsubsection{Boston Consulting Group}
+\descript{| Temporary Researcher}
+
+\location{April 2016 | Jakarta, ID}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Field market research in Jakarta, Palembang, Banjarmasin and other cities for an FMCG client. Worked in a 5-person team in surveying and researching selected products; creating price, strategy and market recommendations.
+
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{Mataharimall.com}
+\descript{| Online Marketing Intern (Analyst)}
+
+\location{June 2016 – Sept 2016 | Jakarta, ID}
+\begin{tightitemize}
+\item Produced weekly insights and custom analytical research for the department.
+\item Helped to fix and streamline MM affiliates' voucher fraud checking system.
+\item Created real-time dashboards for marketing campaigns using Google Anl.+SQL.
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{University of Groningen}
+\descript{| Assistant Researcher}
+
+\location{March 2016 – May 2016 | Jakarta, ID}
+\begin{tightitemize}
+\item Assisted research on Indonesia's ferry industry. Interviewed key players and regulators. Conducted due diligence w/r/t statistics and consumer behaviour.
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{PT. Eduka Niaga Optima}
+\descript{| Co-owner \& Former CEO}
+
+\location{2011 – current | Jakarta, ID \& Riyadh, Saudi Arabia}
+\begin{tightitemize}
+\item Co-founded a travel agency specializing in religious pilgrimage service and international tourism that currently employs five people. Had led as CEO for a total of 20 months. Currently heading its board of directors (as \textit{Komisaris}).
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Research
+%------------------------------------------------
+
+\section{Organization}
+
+\runsubsection{Students for Liberty}
+\descript{| Charter Teams Associate (Indonesia)}
+
+\location{Sept 2016 – Sept 2018 | Jakarta, ID \& Washington, DC}
+\begin{tightitemize}
+\item Working with \textbf{\href{https://www.studentsforliberty.org/profiles/daniel-issing/}{Daniel Issing}} and Indonesian Associates to create programs, conferences and workshops that promote democratic and progressive values.
+\item Created SFL Southeast Asian Conference 2016 with a team and as External Director, secured 13.000+ dollars worth of funding in less than two months.
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+\runsubsection{Other Activities}
+\descript{| Various Roles}
+
+\begin{tightitemize}
+\item Project Leader for the National 11th Leaders' Dialogue, FEB UI, 2014.
+\item Head of Entrepreneurship Development on the Center of Entr. Devl. Universitas Indonesia (CEDS UI), 2015-2016.
+\item Worked as an assistant facilitator on the UN SDSN regional workshop.
+\item Volunteered as a trainer on the US Embassy IRC's Social Entrepreneur program, 2016.
+\end{tightitemize}
+
+\sectionspace
+
+%------------------------------------------------
+% Awards
+%------------------------------------------------
+
+\section{Awards} 
+
+\begin{tabular}{rll}
+2016 & International & 3\textsuperscript{rd} Winner (Hon. Men), Jakarta Model United Nations\\
+2015 & National & 2\textsuperscript{nd} Prize, Ministry of Finance's Financial Quiz Championship\\
+2016 & National & 2\textsuperscript{nd} Winner, SRD Debating Competition \\
+2014 & National & 3\textsuperscript{rd} Winner, SRD Debating Competition \\
+\end{tabular}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Societies
+%------------------------------------------------
+
+\section{Scholarships and Societies} 
+
+\begin{tabular}{rll}
+2015 & National & Purwadhika Startup School Scholarship\\
+2013 & National & \textbf{\href{http://rumahkepemimpinan.org/}{PPSDMS / Rumah Kepemimpinan}} Scholarship\\
+2015 & International & Mensa, Member\\
+2015 & International & \textbf{\href{https://www.kairosasean.org/}{KAIROS ASEAN}}, Member\\
+\end{tabular}
+
+\sectionspace % Some whitespace after the section
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+%	SECOND PAGE (EXAMPLE)
+%----------------------------------------------------------------------------------------
+
+%\newpage % Start a new page
+
+%\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%\section{Example Section}
+
+%\end{minipage} % The end of the left column
+%\hfill
+%\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%\section{Example Section 2}
+
+%\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
